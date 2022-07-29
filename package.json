@@ -1,0 +1,22 @@
+{
+  "name": "npmlearning",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bubai2000/npmlearning.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bubai2000/npmlearning/issues"
+  },
+  "homepage": "https://github.com/bubai2000/npmlearning#readme",
+  "dependencies": {
+    "jquery": "^3.6.0"
+  }
+}
